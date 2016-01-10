@@ -1,6 +1,6 @@
 class Kerl < Formula
-  homepage "https://github.com/spawngrid/kerl"
-  head "https://github.com/spawngrid/kerl.git"
+  homepage "https://github.com/yrashk/kerl"
+  head "https://github.com/yrashk/kerl.git"
 
   def install
     bin.install "kerl"
