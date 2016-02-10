@@ -1,4 +1,5 @@
 class Word2vec < Formula
+  desc "Get continuous distributed representations of words"
   homepage "https://code.google.com/p/word2vec/"
   head "http://word2vec.googlecode.com/svn/trunk/"
 
